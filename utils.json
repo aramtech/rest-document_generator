@@ -1,0 +1,17 @@
+{
+    "name": "rest-document_generator",
+    "deps": {
+        "rest-common": {
+            "owner": "aramtech",
+            "repo": "rest-common",
+            "update_policy": "major",
+            "version": "0.3.2"
+        }
+    },
+    "public_repo": false,
+    "owner": "aramtech",
+    "private": false,
+    "hash": "O93o8P8nGSUwsYKlx8o0AsYz8LjwQNPn2HompMqN378",
+    "version": "0.2.2",
+    "description": ""
+}
